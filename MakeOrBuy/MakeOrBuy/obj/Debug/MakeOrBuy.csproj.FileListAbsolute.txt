@@ -1,0 +1,9 @@
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\bin\Debug\MakeOrBuy.exe.config
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\bin\Debug\MakeOrBuy.exe
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\bin\Debug\MakeOrBuy.pdb
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\obj\Debug\MakeOrBuy.csprojAssemblyReference.cache
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\obj\Debug\MakeOrBuy.FormMain.resources
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\obj\Debug\MakeOrBuy.Properties.Resources.resources
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\obj\Debug\MakeOrBuy.csproj.GenerateResource.cache
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\obj\Debug\MakeOrBuy.exe
+C:\Users\Ildar\source\repos\MakeOrBuy\MakeOrBuy\obj\Debug\MakeOrBuy.pdb
